@@ -56,6 +56,10 @@ https://www.callicoder.com/categories/spring-boot/
 
 ##  Video
 
+SpringFramework@JavaBrains
+https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7
+
+
 SpringBoot@In28Minutes
 https://www.youtube.com/playlist?list=PLBBog2r6uMCRzaJqr-uUC8gakwSxkPSBh
 
