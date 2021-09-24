@@ -1,4 +1,4 @@
-﻿
+﻿![enter image description here](https://github.com/stefanofiorenza/KNITS/raw/master/Logo/KNITS-text-white.png)
 
 # QA VideoResources:
 
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=VywxIQ2ZXw4&ab_channel=freeCodeCamp.org
 **RestAssured:**
 - [REST Assured Beginner Tutorials](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8xPrBwDv66cTMlFNeUPdJx)
 - [REST Assured](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8dDZPP1tpQldU4tzZdPfRv)
-- 
+
 **JMeter@AutomationStepByStep**
 - [JMeter Beginner Tutorials 2021](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_FSu9I7KlJGavyRaIaP1EC)
 - [JMeter full course Masterclass](https://www.youtube.com/playlist?list=PLhW3qG5bs-L86nBPwx2hXXpL6FJWyKczg)

@@ -1,4 +1,4 @@
-﻿
+﻿![enter image description here](https://github.com/stefanofiorenza/KNITS/raw/master/Logo/KNITS-text-white.png)
 
 # QA Automation Tools
 
