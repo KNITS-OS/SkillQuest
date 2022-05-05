@@ -24,7 +24,7 @@
   - **Redux Tutorial - Learn Redux from Scratch Playlist:** 		https://www.youtube.com/watch?v=poQXNp9ItL4
   
 - **ACADEMIND:**
-  - **React@Academind: (Webpack)**
+  - **React@Academind:**
 	  - Course: 	https://www.youtube.com/watch?v=Dorf8i6lCuk
 	  - Git:	https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary/code
 
